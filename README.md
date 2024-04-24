@@ -43,8 +43,8 @@ Main key features of this project :
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/AkashSriv13/Codemonk-Assignment.git
-$ cd Codemonk-Assignment
+$ git clone https://github.com/lijera/Codemonk-Assignment=master.git
+$ cd Codemonk-Assignment-master
 ```
 
 
